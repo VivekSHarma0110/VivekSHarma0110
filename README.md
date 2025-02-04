@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Smeeksha Sharma</h1>
+<h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smeekshasharma&label=Profile%20views&color=0e75b6&style=flat" alt="smeekshasharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksharma&label=Profile%20views&color=0e75b6&style=flat" alt="viveksharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smeekshasharma" alt="smeekshasharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksharma" alt="viveksharma" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Developer**
 
